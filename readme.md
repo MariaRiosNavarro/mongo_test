@@ -23,12 +23,27 @@
 Mit projection Objekt nur title
 ![lösung1](/img/5.1.png)
 
-Rufe alle Filme ab, die das Feld 'Rotten Tomatoes' nicht enthalten.
+6. Rufe alle Filme ab, die das Feld 'Rotten Tomatoes' nicht enthalten.
 
-Rufe alle Filme ab, die mindestens 100 IMDb-Stimmen, aber weniger als 1000 haben und gib nur die Felder 'Titel' und 'IMDb Bewertung' aus.
+Es sind viele, deswegen limit 5
+![lösung1](/img/6.2.png)
+Zahle die menge
+![lösung1](/img/6.1.png)
 
-Sortiere alle Filme absteigend nach ihrer IMDb-Bewertung.
+7. Rufe alle Filme ab, die mindestens 100 IMDb-Stimmen, aber weniger als 1000 haben und gib nur die Felder 'Titel' und 'IMDb Bewertung' aus.
 
-Rufe die 10 Filme mit der höchsten IMDb-Bewertung ab, sortiert in absteigender Reihenfolge.
+![lösung1](/img/7.png)
 
-Rufe alle Filme mit den Genres 'Crime' und 'Drama' ab und gib nur die Felder 'Titel' und 'Genre' aus. Sortiere sie aufsteigend nach ihrer IMDb-Bewertung.
+8. Sortiere alle Filme absteigend nach ihrer IMDb-Bewertung.
+
+![lösung1](/img/8.png)
+
+9. Rufe die 10 Filme mit der höchsten IMDb-Bewertung ab, sortiert in absteigender Reihenfolge.
+
+![lösung1](/img/9.png)
+Mit projection Objekt nur title
+![lösung1](/img/9.1.png)
+
+10. Rufe alle Filme mit den Genres 'Crime' und 'Drama' ab und gib nur die Felder 'Titel' und 'Genre' aus. Sortiere sie aufsteigend nach ihrer IMDb-Bewertung.
+
+![lösung1](/img/10.png)
