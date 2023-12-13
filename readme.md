@@ -5,8 +5,11 @@
 2.  Rufe alle Filme ab, bei denen die Anzahl der Benutzerbewertungen bei Rotten Tomatoes mehr als 40000 ist. Beschränke die Suche auf 20 Filme und sortiere sie absteigend nach Benutzerbewertungen.
 
 ![lösung1](/img/2.1.png)
-(limitierung der Anzeige auf nur den Title)
+
+extra: Projection ,nur den Title
+
 ![lösung1](/img/2.2.png)
+
 ![lösung1](/img/2.3.png)
 
 3. Rufe alle Filme ab, die zwischen 2000 und 2005 gedreht wurden (beide Jahre eingeschlossen) und gib nur die Felder 'Titel' und 'Jahr' aus.
@@ -20,14 +23,19 @@
 5. Rufe alle Filme ab, die weniger als 1000 Benutzer-Rezensionen bei Rotten Tomatoes haben und vor dem Jahr 2005 gedreht wurden. Sortiere sie aufsteigend nach der Anzahl der Benutzer-Rezensionen und beschränke die Suche auf 10 Filme.
 
 ![lösung1](/img/5.png)
-Mit projection Objekt nur title
+
+extra: Mit projection Objekt nur title
+
 ![lösung1](/img/5.1.png)
 
 6. Rufe alle Filme ab, die das Feld 'Rotten Tomatoes' nicht enthalten.
 
-Es sind viele, deswegen limit 5
+extra: Es sind viele, deswegen limit 5
+
 ![lösung1](/img/6.2.png)
-Zahle die menge
+
+extra: Zahle die menge
+
 ![lösung1](/img/6.1.png)
 
 7. Rufe alle Filme ab, die mindestens 100 IMDb-Stimmen, aber weniger als 1000 haben und gib nur die Felder 'Titel' und 'IMDb Bewertung' aus.
@@ -41,7 +49,9 @@ Zahle die menge
 9. Rufe die 10 Filme mit der höchsten IMDb-Bewertung ab, sortiert in absteigender Reihenfolge.
 
 ![lösung1](/img/9.png)
-Mit projection Objekt nur title
+
+extra: Mit projection Objekt nur title
+
 ![lösung1](/img/9.1.png)
 
 10. Rufe alle Filme mit den Genres 'Crime' und 'Drama' ab und gib nur die Felder 'Titel' und 'Genre' aus. Sortiere sie aufsteigend nach ihrer IMDb-Bewertung.
